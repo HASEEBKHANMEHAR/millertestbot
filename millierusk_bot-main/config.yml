@@ -1,0 +1,35 @@
+API_ID:6368284874
+API_HASH: 8d5903f365e285415e9235a65d7d8bfb
+BOT_TOKEN: 6368284874:AAHDN10GB5JcfmEYt1UBj9a7tQ8nET1fu2k
+
+
+MONGO_URL: mongodb+srv://khokharhaseeb00:<password>@cluster0.qvjyka6.mongodb.net/?retryWrites=true&w=majority
+REDIS_URI:redis-17268.c62.us-east-1-4.ec2.cloud.redislabs.com
+REDIS_PORT:17268
+REDIS_PASS:tRYSkhCg0Hf2jrsWWwknj3vYpMThzAMU
+
+SESSION_API_ID: 23603160
+SESSION_API_HASH: 8d5903f365e285415e9235a65d7d8bfb
+SESSION_STRING: 1BJWap1sBu7evo8t0Tn2t7ENOnpL4tP_oI-pfoUNStpJavDy2I7eitZZrfj3X9_RnHN6GlFhkkwfGU_lV69K__Z-SGVDNJWR6d8nisa6ZHM8AbZxh1dBefYiCxjbX17yF-GJ-nDMZ0gcyR-s3CMRUdnZsVCxjx1pDMJaum_1gxZOLrzF3fkAMfqW_K-NUmujIClXhZgNYsYP9LRfO4rKPUIxwr9ZJxpDMrAgdsZAFEzsX4gx3lWXv5KTaiNcnyjYeRnfXd_8d-ss7XBI8uFC71i_k_dy22RVEKAMt8qLY-dGeff1oTsBxLqOubiA8XzRu6rpi6NSq9JRv08nYl9mRqA8fs3--WyQ=
+
+ADMINS: 
+  - 6599876311
+
+OWNER: 6599876311
+
+BOT_PIC: https://te.legra.ph/file/a44cc6ec55eeafec0c558.jpg
+OWNER_PIC: https://te.legra.ph/file/280c6f1a2fbf10caf0822.jpg
+
+
+SUPPORT_CHAT: roldexversechats 
+# LOG_CHAT: 
+LOG_CHAT: 
+
+
+
+HANDLERS: 
+  - "."
+  - "!"
+  - "/"
+  - "?"
+
